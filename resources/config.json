@@ -1,0 +1,11 @@
+{
+    "configs":{
+        "output_path":"REPLACE",
+        "mendeley_path": "/"
+    },
+    "other":{
+        "description":true,
+        "validate_configs":true,
+        "delete_entire_output_directory":false
+    }
+}
