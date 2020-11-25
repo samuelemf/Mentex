@@ -5,8 +5,10 @@ Mentex is a local directory generator based on the BibTex citations from Mendele
 This idea arose from the problem of obtaining the directory where a research document was stored in Mendeley groups. They provide the ability to generate a copy of the files stored, but not name of the directories used. Mentex generates a copy of the directories and the files stored. Thus, we can have the actual directories created in Mendeley in a local copy.
 
 
-<img widht='600' height='526' alt="local-copies-options" src="https://drive.google.com/thumbnail?id=16xl7LKDVFcq_9QbkzEuluy8824tSt_cR" />
-<br>
+
+<!--p align="center">
+  <img alt="local-copies-options" src="https://drive.google.com/thumbnail?id=1wFcncfdRm4w14D2kecWFHuqx1J2oRfSd" width='800px' />
+</p-->
 <p align="center">
   <img alt="copy" src="https://drive.google.com/thumbnail?id=11HZN2YfgJTX7QPpWdHCwNb9hKJ8lInfe" />
   <img alt="bibtex" src="https://drive.google.com/thumbnail?id=16fMoknqILR91614YIwsmFr6zh3CV_L5n" />
