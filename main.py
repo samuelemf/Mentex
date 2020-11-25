@@ -2,7 +2,7 @@ from facade.OrganizerSystem import Organizer
 from util.Presentation import *
 
 """
-    Mentex is local directory generator based on the BibTex citations from
+    Mentex is local a directory generator based on the BibTex citations generated from
     Mendeley groups, a feature not offered by Mendeley.
     
 Author:
