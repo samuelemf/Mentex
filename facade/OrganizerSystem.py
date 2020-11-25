@@ -10,7 +10,7 @@ class Organizer:
 
     def process(self):
         self.__subsystem_a.operation()
-        if not self.__subsystem_b.test_configurations():
+        if not self.__subsystem_b.test_configurations_enabled():
             self.__subsystem_b.operation(self.__subsystem_a.get_mendeley_list())
         else:
             self.__subsystem_b.test(self.__subsystem_a.get_mendeley_list()[0])
