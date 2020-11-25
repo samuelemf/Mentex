@@ -80,3 +80,7 @@ There are some configurations that can be tweaked. All of them are located in th
 [**true** or **false**]
 * Delete entire output path: Mentex does not look for new or older documents. It just copies the current documents and directories. To make sure the copy is as accurate as possible, it's recommended to delete the directory and generate it from 0 every time.
 [**true** or **false**]
+
+## Future Work
+* Add configurations for other types of document’s name separator.
+* Add more documents extension. (May currently work with others, pdf is the only one tested. Extensions of 3 characters may work.)
